@@ -1,0 +1,14 @@
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\bin\Debug\Traffic Generator.exe.config
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\bin\Debug\Traffic Generator.exe
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\bin\Debug\Traffic Generator.pdb
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator.csprojResolveAssemblyReference.cache
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\MainWindow.g.cs
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\App.g.cs
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator_MarkupCompile.cache
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator_MarkupCompile.lref
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\MainWindow.baml
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator.g.resources
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic_Generator.Properties.Resources.resources
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator.csproj.GenerateResource.Cache
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator.exe
+D:\Backup PC Antigo\universidade\LP2\Traffic Generator\Traffic Generator\obj\Debug\Traffic Generator.pdb
